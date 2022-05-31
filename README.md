@@ -1,5 +1,5 @@
-# Set up project with webpack
-In this exercise I will build a simple yet powerful webpack boilerplate, which later I will be able to use as a starting point in my projects. I'll be working with the webpack official guides.
+# Title
+Description
 
 ## 🛠️ Built With
 
@@ -8,7 +8,7 @@ In this exercise I will build a simple yet powerful webpack boilerplate, which l
 - Webpack
 
 ## 💻 Live demo
-- [Live Demo Link](https://mikemtzp.github.io/Set-up-project-with-webpack/)
+- [Live Demo Link](https://mikemtzp.github.io/name/)
 
 ## 🧮 Prerequisites
 
@@ -18,7 +18,7 @@ Follow these steps on your console to properly clone this repository on your des
 
 ```
 $ cd desktop
-$ git clone https://github.com/mikemtzp/Set-up-project-with-webpack.git
+$ git clone https://github.com/mikemtzp/name.git
 $ cd my-portfolio
 $ open index.html file
 ```
@@ -38,7 +38,7 @@ $ open index.html file
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/mikemtzp/Set-up-project-with-webpack/issues).
+Feel free to check the [issues page](https://github.com/mikemtzp/name/issues).
 
 ## ⭐️ Show your support
 
@@ -50,4 +50,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-[MIT License](https://github.com/mikemtzp/Set-up-project-with-webpack/blob/master/MIT.md).
+[MIT License](https://github.com/mikemtzp/name/blob/master/MIT.md).
