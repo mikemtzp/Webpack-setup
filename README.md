@@ -49,4 +49,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-[MIT License](https://github.com/mikemtzp/name/blob/master/MIT.md).
+[MIT License](https://github.com/mikemtzp/name/blob/master/MIT.md)
