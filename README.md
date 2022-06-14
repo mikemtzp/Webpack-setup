@@ -7,8 +7,7 @@ Description
 - Linters: Lighthouse, Webhint, Stylelint & ESlint
 - Webpack
 
-## 💻 Live demo
-- [Live Demo Link](https://mikemtzp.github.io/name/)
+## 💻 [Live demo](https://mikemtzp.github.io/name/)
 
 ## 🧮 Prerequisites
 
